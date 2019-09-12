@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2FE90DF1-BC9F-A1F3-FE97-CB3FCD09520D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ButtonOnclick.cs">
+    <Files>
+      <File FileName="Assets/Script/ButtonOnclick.cs" Line="53" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
