@@ -2,6 +2,7 @@
 This is the first assignment from the course(Digital Prototyping).
 I use Unity as the game engine to develop the game.
 C# is the main coding language.
+Check out the Youtube video see how it plays
 ### Starter Page
 ![snap_shot2](https://user-images.githubusercontent.com/42711913/64770718-13c28480-d591-11e9-9996-82fdfe583de6.jpg)
 ### Level Page
